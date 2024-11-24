@@ -7,13 +7,15 @@ Hola, soy **Ariana Gonzabay**, estudiante de **Ingeniería en Computación** en 
 Aspiro a desarrollar aplicaciones eficientes e innovadoras que me permitan mejorar mis habilidades técnicas, adquirir experiencia y aplicar buenas prácticas de programación en el desarrollo de software. 💻
 
 ## Proyectos Realizados 💡
-Estos son algunos de los proyectos que he desarrollado:
 
-- **Memory Game** 🎮: Juego de memoria en un tablero 5x5 utilizando cartas de UNO, desarrollado con **JavaScript**. [Ver código aquí](https://github.com/ArianaGonzabay/MemoryGame.git)
-- **Sticker Maker** 🖼️: Aplicación para generar stickers personalizados, implementada con **Java** y **CSS**. [Ver código aquí](https://github.com/DavidAlex99/proyectoEDG5.git)
-- **Batalla Naval** 🚢: Juego en ensamblador que reta al jugador a derribar barcos enemigos con 10 misiles. [Ver código aquí](https://github.com/ArianaGonzabay/BatallaNaval.git)
-- **Diccionario Interactivo** 📚: Una herramienta para buscar palabras con funcionalidades avanzadas como prefijos y estadísticas, desarrollada en **Java**. [Ver código aquí](https://github.com/DavidAlex99/proyectoEDG52P.git)
-- **EducaTI** 🎓: Prototipo de una aplicación en **Figma** para evaluar habilidades digitales y recomendar cursos personalizados. [Ver prototipo aquí](https://www.figma.com/proto/sorbzxTmssHuXUvLlcvBEx/Grupo-1-team-library?node-id=417-7)
+| Proyecto | Descripción  | Lenguaje/Tecnología | Enlace |
+|----------------------|-----------------------------------------------------------------------------|---------------------------------------|--------------------------------------------------------|
+| **Memory Game** 🎮   | Juego de memoria en un tablero 5x5 utilizando cartas de UNO.                | **JavaScript**, **HTML**, **CSS**                        | [Ver código aquí](https://github.com/ArianaGonzabay/MemoryGame.git) |
+| **Sticker Maker** 🖼️ | Aplicación para generar stickers personalizados.                             | **Java**, **CSS**                     | [Ver código aquí](https://github.com/DavidAlex99/proyectoEDG5.git) |
+| **Batalla Naval** 🚢 | Juego en ensamblador que reta al jugador a derribar barcos enemigos con 10 misiles. | **Ensamblador**                        | [Ver código aquí](https://github.com/ArianaGonzabay/BatallaNaval.git) |
+| **Diccionario Interactivo** 📚 | Herramienta para buscar palabras con funcionalidades avanzadas como prefijos y estadísticas. | **Java**                             | [Ver código aquí](https://github.com/DavidAlex99/proyectoEDG52P.git) |
+| **EducaTI** 🎓       | Prototipo de una aplicación para evaluar habilidades digitales y recomendar cursos personalizados. | **Figma**                            | [Ver prototipo aquí](https://www.figma.com/proto/sorbzxTmssHuXUvLlcvBEx/Grupo-1-team-library?node-id=417-7) |
+
 
 ## Tecnologías Utilizadas 🧑‍💻
 A lo largo de mi trayectoria, he trabajado con diferentes tecnologías, herramientas y lenguajes:
