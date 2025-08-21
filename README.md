@@ -54,7 +54,7 @@ Soy estudiante de Ingeniería en Computación en la ESPOL, apasionada por la tec
 | **Sticker Maker** | Aplicación para crear stickers personalizados con una interfaz amigable y funciones creativas. | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | [🔗 Explorar Proyecto](https://github.com/DavidAlex99/proyectoEDG5.git) |
 | **Batalla Naval** | Juego de estrategia en ensamblador que pone a prueba tus habilidades de combate naval. | ![Assembly](https://img.shields.io/badge/-Ensamblador-6E4C74?style=flat-square) | [🔗 Explorar Proyecto](https://github.com/ArianaGonzabay/BatallaNaval.git) |
 | **Diccionario Interactivo** | Herramienta avanzada de búsqueda de palabras con funcionalidades intuitivas y completas. | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) | [🔗 Explorar Proyecto](https://github.com/DavidAlex99/proyectoEDG52P.git) |
-| **EducaTI** | Prototipo de aplicación innovadora para evaluar y desarrollar habilidades digitales. | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | [🔗 Ver Prototipo](https://www.figma.com/proto/s) |
+| **EducaTI** | Prototipo de aplicación innovadora para evaluar y desarrollar habilidades digitales. | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | [🔗 Ver Prototipo](https://www.figma.com/proto/sorbzxTmssHuXUvLlcvBEx/Grupo-1-team-library?node-id=417-7&starting-point-node-id=417%3A7&t=fhTwlsOqW182cfRi-1) |
 
 ## 📊 Estadísticas de GitHub
 
